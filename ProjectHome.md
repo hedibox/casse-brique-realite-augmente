@@ -1,0 +1,1 @@
+This project aims to create a exeample of very simple video game using a tracking library i've created in another project.
